@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe.config
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\bin\Debug\RussianRouletteGame.pdb
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\obj\Debug\RussianRouletteGame.exe
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\RussianRouletteGame\obj\Debug\RussianRouletteGame.pdb
